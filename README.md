@@ -2,5 +2,6 @@
 ## codigo
 - ![image](https://github.com/user-attachments/assets/0c36e984-c072-4433-83d4-5fc7cefd352e)
 ## Resultado
-- ![image](https://github.com/user-attachments/assets/c610c8fe-16ac-403d-83eb-21e0516048b3)
+- ![image](https://github.com/user-attachments/assets/df488f29-2bba-4ff2-ac36-d9a997f42b7a)
+
 
